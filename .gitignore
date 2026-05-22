@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+Package.resolved
+Runtime/libsimtime.dylib
+Runtime/test_clock
+*.dSYM/
+.DS_Store
+xcuserdata/
+.vscode/
+.idea/
+demo-out/
